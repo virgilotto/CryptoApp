@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "custom"
+  ],
+  "parentResource": "cryptoappa16531ea",
+  "functionName": "cryptoappa16531eaPostConfirmation",
+  "resourceName": "cryptoappa16531eaPostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": "[]",
+  "triggerDir": "C:\\snapshot\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "cryptoappa16531eaPostConfirmation",
+  "skipEdit": true,
+  "enableCors": false
+}

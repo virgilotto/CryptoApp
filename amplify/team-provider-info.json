@@ -1,0 +1,34 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cryptoapp-dev-121622-authRole",
+      "UnauthRoleArn": "arn:aws:iam::197031613097:role/amplify-cryptoapp-dev-121622-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::197031613097:role/amplify-cryptoapp-dev-121622-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-cryptoapp-dev-121622-deployment",
+      "UnauthRoleName": "amplify-cryptoapp-dev-121622-unauthRole",
+      "StackName": "amplify-cryptoapp-dev-121622",
+      "StackId": "arn:aws:cloudformation:eu-west-1:197031613097:stack/amplify-cryptoapp-dev-121622/6fed3bc0-906f-11eb-ae87-0289b255ffdb",
+      "AmplifyAppId": "dbkh2xhfw9sh8"
+    },
+    "categories": {
+      "auth": {
+        "cryptoappa16531ea": {}
+      },
+      "function": {
+        "cryptoappa16531eaPostConfirmation": {
+          "deploymentBucketName": "amplify-cryptoapp-dev-121622-deployment",
+          "s3Key": "amplify-builds/cryptoappa16531eaPostConfirmation-742f374b457a77304974-build.zip"
+        },
+        "ExchangeCoins": {
+          "deploymentBucketName": "amplify-cryptoapp-dev-121622-deployment",
+          "s3Key": "amplify-builds/ExchangeCoins-70355a41363431714b69-build.zip"
+        },
+        "FetchCoinsPrices": {
+          "deploymentBucketName": "amplify-cryptoapp-dev-121622-deployment",
+          "s3Key": "amplify-builds/FetchCoinsPrices-6d6232652f346d6b3761-build.zip"
+        }
+      }
+    }
+  }
+}

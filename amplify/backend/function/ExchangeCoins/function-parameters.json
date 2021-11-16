@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "api": {
+      "cryptoapp": [
+        "Query",
+        "Mutation"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
